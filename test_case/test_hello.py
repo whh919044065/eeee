@@ -93,3 +93,5 @@ def test_aaa(pub_data):
     # method,pub_data和url为必传字段
     r = request_tool.request(method=method,url=uri,pub_data=pub_data,status_code=status_code,headers=headers,expect=expect,feature=feature,story=story,title=title,json_data=json_data)
 print("ddfhfj")
+
+print("abcdefg")
