@@ -92,3 +92,4 @@ def test_aaa(pub_data):
     # --------------------分界线，下边的不要修改-----------------------------------------
     # method,pub_data和url为必传字段
     r = request_tool.request(method=method,url=uri,pub_data=pub_data,status_code=status_code,headers=headers,expect=expect,feature=feature,story=story,title=title,json_data=json_data)
+print("ddfhfj")
